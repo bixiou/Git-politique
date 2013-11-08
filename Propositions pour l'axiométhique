@@ -1,0 +1,52 @@
+La première ligne en-dessous de chaque proposition contient le nombre de personnes l'approuvant, suivi des initiales de ces personnes (si vous découvrez une proposition et l'approuvez, rajouté 1 à ce nombre ainsi que vos initiales).
+La seconde ligne (et peut-être la 3è, la 4è, etc) contient éventuellement les initiales de quelqu'un qui refuse cette proposition, suivi d'un commentaire de cette personne.
+Ensuite une ligne est sautée, et des commentaires de la proposition apparaissent.
+Une proposition est adoptée (et mise dans le fichier "L'axiométhique" quand le nombre qui figure sous cette proposition est notre nombre de membres.
+
+A.3 (prosélytisme) Nous voulons que tous les humains conscients partagent les valeurs de l’axiométhique.
+1 AF
+
+A.4 (liberté et non-discrimination) Nous ne voulons entraver un humain que s’il nous empêche d’appliquer l’axiométhique, et dans ce cas-là nous cherchons à l’entraver le moins possible (nous l’entravons uniquement pour appliquer l’axiométhique). En particulier, nous ne voulons pas handicaper un humain du fait de sa couleur de peau, de son sexe, de sa langue, de sa religion, de sa nationalité, de son orientation sexuelle, de son origine géographique, nationale ou sociale, de sa fortune ou de son ethnie.
+Garantit les libertés individuelles (liberté de circulation, liberté de fumer un joint, etc.) et interdit les discriminations. Pour le cas de fumer un joint, voici la subtilité que permettent les axiomes 4 et 5 : d’après l’axiome 4, j’ai le droit de fumer un joint (à démontrer, imaginons qu’on ait dérivé une loi L.C qui nous autorise à fumer un joint). A.5 ne m’interdit pas de fumer un joint car la loi française est en contradiction avec la L.C. En fait, le policier, s’il respecte l’axiométhique, ne devra pas m’arrêter d’après A.4 et L.C : ainsi dans l’idéal (si le policier et ses supérieurs respectent l’axiométhique), même si la loi française m’interdit de fumer un joint, la police ne m’arrêtera jamais pour ça.
+1 AF
+
+A.5 (respect des règles) Nous voulons respecter les lois, règles et institutions du lieu où nous sommes tant qu’elles ne sont pas en contradiction avec l’axiométhique.
+1 AF
+
+Cette loi pallie les lacunes de l’axiométhique : lorsqu’elle ne dit pas quoi faire, les lois s’appliquent.
+D’aucuns pourrait croire qu’aucune loi ou presque n’a besoin d’être respectée en vertu de l’axiome de liberté, montrons que c’est faux. Par exemple, on pourrait penser en première lecture qu’empêcher quelqu’un d’attoucher quelqu’un d’autre sans son consentement l’handicape et qu’on devrait ainsi autoriser les attouchements. Mais c’est oublier le point de vue de l’attouché : autoriser les attouchements l’handicape. Comme les deux sont handicapés selon ce qu’on décide de faire, l’axiome de liberté ne permet pas de trancher : c’est le respect des règles qui nous fournit la solution (ou l’axiome humaniste qui garantit la sécurité à tous).
+
+C.0 Dans la suite du texte, notamment dans l’énoncé des lois, devrait apparaître au début de chaque loi une référence à notre volonté. Par exemple, la loi L.1 ci-dessous devrait en toute rigueur s’écrire « Nous ne voulons pas commettre les actions suivantes : le meurtre,… » mais par simplicité du texte nous ne ferons plus référence à notre volonté et nous écrirons « Nous ne commettons pas les actions suivantes : le meurtre,… » comme pour nous forcer à agir en conformité avec notre volonté profonde.
+1 AF
+
+C.1 Notre production de biens et services est déterminée par la répartition de l’ensemble de nos actions, et du temps accordé à chacunes d’elles.	
+1 AF
+
+D.2 Humain : Homo sapiens non relié à sa mère biologique par le cordon ombilical.
+1 AF
+
+D.3 Meurtre : action de tuer délibérément un humain sans sa demande univoque d’être tué.
+1 AF
+
+L.1 Nous ne commettons pas les actions suivantes : le meurtre, le viol, l’esclavage, la torture. Plus généralement, nous ne commettons délibérément aucune action qui entrave les conditions nécessaires au bien-être et ne les fait pas progresser.
+1 AF
+
+Démonstration : découle de A.1 et C.2.	
+
+D.4 Action unanime : action organisée collectivement et soutenue par chacun d’entre nous. Pour le bon déroulement de la démonstration de la loi L.3, chaque description d'action unanime contient la clause : "Quiconque ne participe pas déjà à une action unanime et a les compétences pour réaliser cette action [l'action décrite] peut se voir attribuer son accomplissement." 	
+1 AF
+
+La clause n’est peut-être pas évidente à comprendre. Donnons un exemple pour expliquer son intérêt :
+E.5 Imaginons qu’on ait besoin d’un spécialiste du nucléaire pour intervenir sur une centrale sur le point d’exploser et de tuer 100 millions de personnes, sachant que le spécialiste s’exposerait à des radiations mortelles. Imaginons qu’il y ait 15 spécialistes disponibles à ce moment-là (c’est-à-dire non déjà engagés dans une action unanime). Une action bien formulée est proposée à la communauté, comprenant la clause ci-dessus, détaillant la mission du spécialiste et expliquant qu’il serait choisi aléatoirement parmi les 15 possibles. Si l’ensemble de la communauté approuve ce projet d’action, il devient une action unanime. En pratique, le travail a plus de chances d’être accompli si chacun approuve au départ que ce travail doit être fait, quitte à être celui qui fera ce travail, et si la désignation est aléatoire, ou au moins acceptée par tous.	 
+
+L.2 Entre accomplir une action unanime ou accomplir un autre travail collectif ou n’accomplir aucune action unanime, nous choisissons l’action unanime. Plus généralement, quand nous devons arbitrer sur le travail à accomplir, nous choisissons celui qui améliore le plus sûrement (et ensuite le plus rapidement et le plus fortement) les conditions nécessaires au bien-être.	
+1 AF
+
+Démonstration : découle de A.1 et C.1.	
+
+L.3. Si l’un de nous ne participe pas à une action unanime et que nous lui en proposons une, il l’accepte et l’accomplit. Si l’un de nous ne participe à aucune action unanime alors qu’il existe une action unanime qu’il peut réaliser, nous lui en proposons une.
+1 AF
+
+Démonstration : La personne qui ne participe à aucune action unanime soutient l'action unanime proposée par définition, donc il l'accepte (grâce à la clause qu'on a rajoutée dans la description de l'action proposée). D'après L.2, il vaut mieux que chacun accomplisse une action unanime, ainsi, il faut proposer des actions unanimes à ceux qui n'en font pas.
+
+A réfléchir : formuler la différence entre les actions pour soi et les actions impliquant d’autres personnes (ex : différence entre fumer un joint et attouchements sexuels), sort réservé aux animaux, prix du travail, des biens et des actions unanimes, à qui attribuer la création de monnaie, financement des actions unanimes
